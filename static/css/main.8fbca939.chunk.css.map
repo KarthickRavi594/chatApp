@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css","webpack://src/App.css"],"names":[],"mappings":"AAAA,cAAc,CACd,oBAAoB,CACpB,mBAAmB,CCFnB,EACE,kCACF","file":"main.8fbca939.chunk.css","sourcesContent":["@tailwind base;\n@tailwind components;\n@tailwind utilities;\n","* {\n  font-family: \"Catamaran\", sans-serif;\n}\n"]}
